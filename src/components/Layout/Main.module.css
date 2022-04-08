@@ -1,0 +1,9 @@
+.main {
+    background-color: skyblue;
+}
+
+hr {
+    background-color: black;
+    height: 3px;
+    border-color: black;
+}

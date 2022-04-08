@@ -1,0 +1,12 @@
+.button:hover {
+    background-color: rgb(190, 243, 84);
+}
+
+.button {
+    background-color: rgb(247, 244, 95);
+    margin-left: 0.5rem;
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+}

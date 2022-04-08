@@ -1,0 +1,9 @@
+.cards {
+    display: flex;
+}
+
+.button{
+    background-color: skyblue;
+    margin: 5px;
+}
+
